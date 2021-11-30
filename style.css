@@ -30,3 +30,26 @@ section{
     background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
 }
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.big-tittle{
+    font-size: 40px;
+}
+.details{
+    width:500px;
+}
+.work-gallary{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gallary{
+    padding:20px;
+    margin:10px;
+}
+.latest-work{
+    margin:2%;
+    padding:3%
+}
